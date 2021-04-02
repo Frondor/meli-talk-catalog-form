@@ -1,0 +1,9 @@
+.product-form--disabled {
+  opacity: 0.5;
+  pointer-events: none;
+  user-select: none;
+}
+
+.product-form__submit-btn {
+  width: 100%;
+}

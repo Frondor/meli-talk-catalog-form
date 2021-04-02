@@ -1,0 +1,12 @@
+.number-unit-control {
+  display: flex;
+}
+
+.number-unit-control__number {
+  flex-grow: 1;
+}
+
+.number-unit-control__unit {
+  margin-left: 10px;
+  flex-shrink: 0;
+}
